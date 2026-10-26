@@ -1,0 +1,1 @@
+Run `python basket.py` (Python standard library only). The four sample baskets are synthetic. Rules enumerate pairs only, not general Apriori itemsets. Support is transaction frequency; confidence is conditional frequency; lift compares against the consequent’s baseline frequency.
